@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\MainWindow.g.cs
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\App.g.cs
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp_MarkupCompile.cache
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp_MarkupCompile.lref
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\bin\Debug\DiBucciMaratonaApp.exe.config
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\bin\Debug\DiBucciMaratonaApp.exe
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\bin\Debug\DiBucciMaratonaApp.pdb
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\MainWindow.baml
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp.g.resources
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp.Properties.Resources.resources
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp.exe
+C:\Users\nicol\source\repos\DiBucciMaratonaApp\DiBucciMaratonaApp\obj\Debug\DiBucciMaratonaApp.pdb
